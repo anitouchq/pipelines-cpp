@@ -49,7 +49,7 @@
 ## 🐳 Проверка локально
 
 ### Сборка образа
-<img width="2170" height="725" alt="photo_5413821073230340029_w" src="https://github.com/user-attachments/assets/c4993bd6-af4a-449c-946a-fcdf5cd82d66" />
+
 
 
 ```bash
