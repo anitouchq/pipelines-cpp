@@ -1,12 +1,4 @@
-
-pipelines-cpp
-
-<img width="1415" height="319" alt="image" src="https://github.com/user-attachments/assets/84a7b42e-fea4-4c9a-a7d9-c0247cb9db4c" />
 # 🧱 pipelines-cpp
-
-Учебный проект: **CI-пайплайн на GitHub Actions** для C++-приложения.
-
----
 
 ## 📖 О проекте
 
@@ -57,7 +49,8 @@ pipelines-cpp
 ## 🐳 Проверка локально
 
 ### Сборка образа
-<img width="298" height="81" alt="image" src="https://github.com/user-attachments/assets/bdfa3998-23bc-458f-8043-5abbf7d64290" />
+<img width="2170" height="725" alt="photo_5413821073230340029_w" src="https://github.com/user-attachments/assets/c4993bd6-af4a-449c-946a-fcdf5cd82d66" />
+
 
 ```bash
 docker build -t my-cpp-app:latest .
@@ -94,7 +87,6 @@ cd build && ctest --output-on-failure
 - **Google Test** — тесты
 - **clang-format 17** — форматирование
 - **Docker** — multi-stage сборка
-- **GitHub Actions** — CI
 
 ---
 
